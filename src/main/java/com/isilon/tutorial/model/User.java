@@ -1,4 +1,4 @@
-package com.isilon.tutorial.models;
+package com.isilon.tutorial.model;
 
 import javax.validation.constraints.Email;
 import javax.validation.constraints.NotBlank;

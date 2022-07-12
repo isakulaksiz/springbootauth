@@ -1,4 +1,4 @@
-package com.isilon.tutorial.models;
+package com.isilon.tutorial.model;
 
 public enum ERole {
     ROLE_USER,
